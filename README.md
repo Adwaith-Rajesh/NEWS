@@ -10,7 +10,7 @@ ___
 ## Author
 Adwaith Rajesh
 
-Find me on [instagram](https://www.instagram.com/__adwaith__rajesh_/)
+Find me on [instagram](https://www.instagram.com/adwaith__rajesh/)
 
 ## Usage
 
