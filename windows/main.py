@@ -26,7 +26,7 @@ class MainWindow:
 
         self.master = Tk()
         self.master.geometry('1440x880+0+0')
-        self.master.resizable(0, 0)
+        self.master.resizable(1, 1)
         self.master.title('Real News')
 
         # App topics
