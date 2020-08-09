@@ -1,6 +1,6 @@
 """
     author --> Adwaith Rajesh
-    follow me on ig @__adwaith__rajesh_
+    follow me on ig @adwaith__rajesh
 """
 
 
